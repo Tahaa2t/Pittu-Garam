@@ -1,0 +1,2 @@
+# Pittu-Garam
+Pittu gram is the popular game In Sub-continent. This game best represents the game jam's theme. Although it is not a popular game nowadays, playing Pittu garam may bring back memories for those born in the last two or three decades.  Essentially, it is a single-player, 3D, Hyper casual game. The background theme will reflect the audience we are trying to reach. We have chosen to create 5-7 levels, with the complexity increasing as the number of levels increases.
