@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.TestRunner", "UnityEngine.TestRunner.csproj", "{7ddd59f5-8f82-3255-79fb-33aaab2adce9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.UI", "UnityEngine.UI.csproj", "{c2f6513d-dc42-29f0-43c1-3c869f2050af}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.TestRunner", "UnityEngine.TestRunner.csproj", "{7ddd59f5-8f82-3255-79fb-33aaab2adce9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.VisualScripting.Flow", "Unity.VisualScripting.Flow.csproj", "{91685af7-29fd-0ee9-3ddb-ea323b75fed3}"
 EndProject
@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Services.Core.Editor"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TestTools.CodeCoverage.Editor", "Unity.TestTools.CodeCoverage.Editor.csproj", "{8cbc9295-9bd7-a32a-869d-3d7ecdf9a154}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{05f2f646-69ef-99e2-6ede-afd4207000e5}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Rider.Editor", "Unity.Rider.Editor.csproj", "{8b8d6a7c-0438-48d9-221c-3a7366f3cb71}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Performance.Profile-Analyzer.Editor", "Unity.Performance.Profile-Analyzer.Editor.csproj", "{7891e67d-cc96-73a5-097c-bf8c1f4c2231}"
@@ -90,10 +92,10 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7ddd59f5-8f82-3255-79fb-33aaab2adce9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7ddd59f5-8f82-3255-79fb-33aaab2adce9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{c2f6513d-dc42-29f0-43c1-3c869f2050af}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{c2f6513d-dc42-29f0-43c1-3c869f2050af}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ddd59f5-8f82-3255-79fb-33aaab2adce9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ddd59f5-8f82-3255-79fb-33aaab2adce9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91685af7-29fd-0ee9-3ddb-ea323b75fed3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{91685af7-29fd-0ee9-3ddb-ea323b75fed3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44009119-ae22-b033-d35b-a380b8c7a50c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -154,6 +156,8 @@ Global
 		{aacc2e49-cabe-6038-687c-8a7cc74f5241}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8cbc9295-9bd7-a32a-869d-3d7ecdf9a154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8cbc9295-9bd7-a32a-869d-3d7ecdf9a154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05f2f646-69ef-99e2-6ede-afd4207000e5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05f2f646-69ef-99e2-6ede-afd4207000e5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8b8d6a7c-0438-48d9-221c-3a7366f3cb71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8b8d6a7c-0438-48d9-221c-3a7366f3cb71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7891e67d-cc96-73a5-097c-bf8c1f4c2231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU

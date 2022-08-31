@@ -117,9 +117,6 @@
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"C:/FAST/CODE/Unity/pittu_animations/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
--r:"C:/FAST/CODE/Unity/pittu_animations/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
--r:"C:/FAST/CODE/Unity/pittu_animations/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
@@ -327,6 +324,9 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
+-r:"C:/Users/USER/Documents/GitHub/Pittu-Garam/pittu_animations/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
+-r:"C:/Users/USER/Documents/GitHub/Pittu-Garam/pittu_animations/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
+-r:"C:/Users/USER/Documents/GitHub/Pittu-Garam/pittu_animations/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
@@ -357,8 +357,22 @@
 "Assets/CubePeopleDemo/Scripts/CubePeopleTraffic.cs"
 "Assets/CubePeopleDemo/Scripts/EightDirectionMovement.cs"
 "Assets/CubePeopleDemo/Scripts/FollowTarget.cs"
-"Assets/Scripts/CameraFollow.cs"
+"Assets/Joystick Pack/Examples/JoystickPlayerExample.cs"
+"Assets/Joystick Pack/Examples/JoystickSetterExample.cs"
+"Assets/Joystick Pack/Scripts/Base/Joystick.cs"
+"Assets/Joystick Pack/Scripts/Joysticks/DynamicJoystick.cs"
+"Assets/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs"
+"Assets/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs"
+"Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs"
+"Assets/NavMeshComponents/Scripts/NavMeshLink.cs"
+"Assets/NavMeshComponents/Scripts/NavMeshModifier.cs"
+"Assets/NavMeshComponents/Scripts/NavMeshModifierVolume.cs"
+"Assets/NavMeshComponents/Scripts/NavMeshSurface.cs"
+"Assets/Scripts/ballThrow.cs"
 "Assets/Scripts/ManagerController.cs"
+"Assets/Scripts/ManagerJoystick.cs"
+"Assets/Scripts/soundEffects.cs"
+"Assets/Scripts/TopCameraFollow.cs"
 -langversion:9.0
 
 /deterministic
