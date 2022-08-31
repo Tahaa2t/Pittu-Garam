@@ -369,6 +369,7 @@
 "Assets/NavMeshComponents/Scripts/NavMeshModifierVolume.cs"
 "Assets/NavMeshComponents/Scripts/NavMeshSurface.cs"
 "Assets/Scripts/ballThrow.cs"
+"Assets/Scripts/EnemyController.cs"
 "Assets/Scripts/ManagerController.cs"
 "Assets/Scripts/ManagerJoystick.cs"
 "Assets/Scripts/soundEffects.cs"
